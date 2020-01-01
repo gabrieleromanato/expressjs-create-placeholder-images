@@ -1,0 +1,17 @@
+{
+  "name": "expressjs-placeholder-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-gd": "^1.6.0",
+    "validator": "^12.1.0"
+  }
+}
